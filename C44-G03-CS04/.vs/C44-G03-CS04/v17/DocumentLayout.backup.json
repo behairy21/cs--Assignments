@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Courrses\\Route\\Aliaa Tarek\\C#\\Assignments\\C44-G03-CS04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D7F31E-284E-40FF-921A-F8C79DEFC2EE}|C44-G03-CS04\\C44-G03-CS04.csproj|g:\\courrses\\route\\aliaa tarek\\c#\\assignments\\c44-g03-cs04\\c44-g03-cs04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D7F31E-284E-40FF-921A-F8C79DEFC2EE}|C44-G03-CS04\\C44-G03-CS04.csproj|solutionrelative:c44-g03-cs04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Courrses\\Route\\Aliaa Tarek\\C#\\Assignments\\C44-G03-CS04\\C44-G03-CS04\\Program.cs",
+              "RelativeDocumentMoniker": "C44-G03-CS04\\Program.cs",
+              "ToolTip": "G:\\Courrses\\Route\\Aliaa Tarek\\C#\\Assignments\\C44-G03-CS04\\C44-G03-CS04\\Program.cs*",
+              "RelativeToolTip": "C44-G03-CS04\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T15:23:15.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

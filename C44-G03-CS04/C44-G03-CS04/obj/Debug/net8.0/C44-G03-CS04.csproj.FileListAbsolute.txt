@@ -1,0 +1,14 @@
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\bin\Debug\net8.0\C44-G03-CS04.exe
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\bin\Debug\net8.0\C44-G03-CS04.deps.json
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\bin\Debug\net8.0\C44-G03-CS04.runtimeconfig.json
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\bin\Debug\net8.0\C44-G03-CS04.dll
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\bin\Debug\net8.0\C44-G03-CS04.pdb
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.GeneratedMSBuildEditorConfig.editorconfig
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.AssemblyInfoInputs.cache
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.AssemblyInfo.cs
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.csproj.CoreCompileInputs.cache
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.dll
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\refint\C44-G03-CS04.dll
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.pdb
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\C44-G03-CS04.genruntimeconfig.cache
+G:\Courrses\Route\Aliaa Tarek\C#\Assignments\C44-G03-CS04\C44-G03-CS04\obj\Debug\net8.0\ref\C44-G03-CS04.dll
