@@ -8,8 +8,8 @@ Each project demonstrates different C# concepts and fundamentals I've learned du
 
 ## 📁 Projects
 
-### 🚀 Assignment-01-HelloWorld  
-   contains: [Console Output]
+### 🚀 Assignment C44-G03-CS03  
+   contains: [Console] , [Fractions & Discards] , [Casting] , [Operators] , [String Formating] , [Conditional Statements]
 
 ### 🧮 Assignment-02-Calculator  
    contains: [Arithmetic Operations] [If Statements]
